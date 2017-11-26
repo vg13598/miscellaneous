@@ -1,5 +1,5 @@
 """
-FInds all the pictures in a folder and turns them to a pdf. I know I have a version where the size is kept. Use of latex
+Finds all the pictures in a folder and turns them to a pdf. I know I have a version where the size is kept. Use of latex
 """
 
 import glob, os
